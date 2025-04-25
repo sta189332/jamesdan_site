@@ -1,0 +1,13 @@
+---
+title: "Contact"
+format: html
+---
+
+# Contact
+
+Feel free to reach out:
+
+- 📞 Phone: +2348033147591  
+- ✉️ Email: [futathesis@gmail.com](mailto:futathesis@gmail.com)  
+- 🌐 Website: [jamesdan.com](https://www.jamesdan.com)  
+- [LinkedIn](https://www.linkedin.com/in/jamesdan) | [GitHub](https://github.com/sta189332)

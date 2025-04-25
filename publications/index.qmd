@@ -1,0 +1,12 @@
+---
+title: "Publications"
+format: html
+---
+
+# Selected Publications
+
+1. James, D. (2023). *Modeling Epidemic Time Series Using Hybrid Models*. International Journal of Statistical Science.  
+2. James, D. & Smith, A. (2022). *Biostatistics Applications in Health Risk Prediction*. African Journal of Data Analytics.  
+3. James, D. (2021). *Seasonal Forecasting with ARIMA Models*. Nigerian Journal of Statistics.
+
+*More publications coming soon...*

@@ -1,0 +1,19 @@
+---
+title: "Research"
+format: html
+---
+
+# Research Interests
+
+My work focuses on:
+
+- Time Series Analysis
+- Machine Learning in Health & Education
+- Biostatistical Modeling
+- Computational Statistics
+- Forecasting Techniques
+
+## Ongoing Projects
+- Time Series Forecasting of Epidemics in Africa
+- Gender-Based Analysis in STEM Using ML Models
+- Statistical Models for Climate Data Interpretation

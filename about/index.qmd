@@ -1,0 +1,22 @@
+---
+title: "About Me"
+format: html
+---
+
+# About Me
+
+I am Dr. James Dan, an academic and data scientist at Redeemer’s University, Nigeria. I hold a Ph.D. in Statistics and specialize in **time series analysis**, **machine learning**, and **biostatistics**.
+
+### Contact Information
+- 📍 Department of Mathematics and Statistics, Redeemer’s University, Ede, Nigeria  
+- 📞 +2348033147591  
+- ✉️ [futathesis@gmail.com](mailto:futathesis@gmail.com)  
+- 🌐 [jamesdan.com](https://www.jamesdan.com)
+
+### Academic Networks
+- [LinkedIn](https://www.linkedin.com/in/jamesdan)
+- [ResearchGate](https://www.researchgate.net/profile/James-Daniel-3/research)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=0BCwRh0AAAAJ)
+- [ORCID](https://orcid.org/0000-0003-1063-9927)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=5698223345707)
+- [GitHub](https://github.com/sta189332)

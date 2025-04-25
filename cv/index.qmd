@@ -1,0 +1,25 @@
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+# Curriculum Vitae
+
+A complete version of my CV is available [here](../static/James_Daniel_CV.pdf).
+
+## Education
+- Ph.D. in Statistics — Federal University of Technology Akure, Nigeria
+- M.Sc. in Statistics — University of Ibadan
+- B.Sc. in Statistics — University of Ilorin
+
+## Academic & Professional Appointments
+- Lecturer — Redeemer’s University, Ede, Nigeria
+- IT Instructor — Aptech Computer Education, Lagos
+
+## Workshops & Training
+- Data Science Summer School — Lagos, Nigeria
+- Python, R, and SPSS Statistical Training
+
+## Memberships
+- Nigerian Statistical Association (NSA)
+- International Biometric Society

@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Dr. James Dan"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about/index.qmd
+      - research/index.qmd
+      - publications/index.qmd
+      - teaching/index.qmd
+      - cv/index.qmd
+      - contact/index.qmd
+  page-footer:
+    left: "© 2025 Dr. James Dan"
+    right: "Powered by Quarto"
+
+format:
+  html:
+    theme: cosmo
+    toc: true

@@ -1,0 +1,16 @@
+---
+title: "Teaching"
+format: html
+---
+
+# Teaching Experience
+
+## Courses Taught
+- STA 211: Probability Theory
+- STA 314: Time Series Analysis
+- STA 410: Advanced Regression Models
+- Machine Learning for Applied Statistics
+
+## Institutions
+- Redeemer’s University
+- Aptech Computer Education

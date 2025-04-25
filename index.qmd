@@ -1,0 +1,10 @@
+---
+title: "Welcome"
+format: html
+---
+
+# Welcome to My Academic Portfolio
+
+I am **Dr. James Dan**, a lecturer and researcher in time series analysis, machine learning, and applied statistics. I currently lecture at the Department of Mathematical Science, Redeemer's University, Ede, Nigeria.
+
+Explore this website to learn more about my academic journey, publications, research interests, teaching engagements, and professional contributions.
