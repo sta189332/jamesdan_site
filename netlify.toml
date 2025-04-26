@@ -1,0 +1,9 @@
+[build]
+  publish = "_site"
+  command = "quarto install && quarto render"
+
+[build.environment]
+  NODE_VERSION = "18.16.0"
+
+[[plugins]]
+  package = "@netlify/plugin-functions-install-core"
